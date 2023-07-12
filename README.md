@@ -7,29 +7,24 @@
 - 스터디날에 무작위로 발표 파트를 정합니다.
 - 발표자는 발표 전 Issue를 열고, 질의응답 내용을 기록합니다.
 
-# 1장 리액트 시작
+# 8장 Hooks
 
 |파트|발표자|
 |:---:|:---:|
-|1.1 왜 리액트인가?||
-|1.2 리액트의 특징||
-|1.3 작업 환경 설정|생략|
+|8.1 useState|[변민정](https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4)|
+|8.2 useEffect|[변민정](https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4)|
+|8.3 useReducer|[변민정](https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4)|
+|8.4 useMemo|[변민정](https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4)|
+|8.5 useCallback|[변민정](https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4)|
+|8.6 useRef|[변민정](https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4)|
+|8.7 커스텀 Hooks 만들기|[변민정](https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4)|
+|8.8 다른 Hooks|[변민정](https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4)|
 
-# 2장 JSX
-
-|파트|발표자|
-|:---:|:---:|
-|2.1 코드 이해하기||
-|2.2 JSX란?||
-|2.3 JSX의 장점||
-|2.4 JSX 문법(1)||
-|2.4 JSX 문법(2)||
-
-# 3장 컴포넌트
+# 9장 컴포넌트 스타일링
 
 |파트|발표자|
 |:---:|:---:|
-|3.1 클래스형 컴포넌트||
-|3.2 첫 컴포넌트 생성||
-|3.3 props||
-|3.4 state(+주의사항)||
+|9.1 일반 CSS|[윤강록](https://velog.io/@ykr0919)|
+|9.2 Sass 사용하기|[윤강록](https://velog.io/@ykr0919)|
+|9.3 Css Module|[윤강록](https://velog.io/@ykr0919)|
+|9.4 styled-components|[윤강록](https://velog.io/@ykr0919)|
