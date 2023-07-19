@@ -28,3 +28,25 @@
 |9.2 Sass 사용하기|[윤강록](https://velog.io/@ykr0919)|
 |9.3 Css Module|[윤강록](https://velog.io/@ykr0919)|
 |9.4 styled-components|[윤강록](https://velog.io/@ykr0919)|
+
+# 8장 Hooks (재발표)
+
+|파트|발표자|
+|:---:|:---:|
+|8.1 useState|[윤강록]([https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4](https://velog.io/@ykr0919/React-Hooks))|
+|8.2 useEffect|[윤강록]([https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4](https://velog.io/@ykr0919/React-Hooks))|
+|8.3 useReducer|[윤강록]([https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4](https://velog.io/@ykr0919/React-Hooks))|
+|8.4 useMemo|[윤강록]([https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4](https://velog.io/@ykr0919/React-Hooks))|
+|8.5 useCallback|[윤강록]([https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4](https://velog.io/@ykr0919/React-Hooks))|
+|8.6 useRef|[윤강록]([https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4](https://velog.io/@ykr0919/React-Hooks))|
+|8.7 커스텀 Hooks 만들기|[윤강록]([https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4](https://velog.io/@ykr0919/React-Hooks))|
+|8.8 다른 Hooks|[윤강록]([https://www.notion.so/8-Hooks-a82aeed79535461f9d5afccbb0abec1b?pvs=4](https://velog.io/@ykr0919/React-Hooks))|
+
+# 10장 TodoList 만들기
+
+|파트|발표자|
+|:---:|:---:|
+|9.1 일반 CSS|[윤강록](https://velog.io/@ykr0919)|
+|9.2 Sass 사용하기|[윤강록](https://velog.io/@ykr0919)|
+|9.3 Css Module|[윤강록](https://velog.io/@ykr0919)|
+|9.4 styled-components|[윤강록](https://velog.io/@ykr0919)|
