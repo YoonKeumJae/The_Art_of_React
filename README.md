@@ -51,7 +51,7 @@
 |9.3 Css Module|[윤강록](https://velog.io/@ykr0919)|
 |9.4 styled-components|[윤강록](https://velog.io/@ykr0919)|
 
-# 11장 TodoList 만들기
+# 11장 컴포넌트 성능 최적화
 
 |파트|발표자|
 |:---:|:---:|
